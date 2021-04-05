@@ -1,7 +1,9 @@
-### Hi there, I'm Rahul - aka [404notfound][facebook] 👋
+<!-- ### Hi there, I'm Rahul - aka [404notfound][facebook] 👋 -->
+
+### Hi there, I'm Rahul - aka <a herf="https://facebook.com/404notfound.3" target="_blank">404notfound</a> 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/unknovvn_us3r?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F404notfound-3&screen_name=unknovvn_us3r)
-<!-- [![Website](https://img.shields.io/website?label=404notfound.live&style=for-the-badge&url=https%3A%2F%2F404notfound.live)](https://404notfound.live) -->
+
 
 ## I'm a Student, Developer and a Freelancer!!
 
